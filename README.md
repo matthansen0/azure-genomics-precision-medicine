@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> This article was retired from the Azure Architecture Center to make way for newer methods, and was hosted in this location with the express permission of its authors. 
+
 # Precision medicine pipeline with genomics
 
 This article presents a solution for genomic analysis and reporting. The processes and results are appropriate for [precision medicine](https://en.wikipedia.org/wiki/Personalized_medicine) scenarios, or areas of medical care that use genetic profiling.
@@ -91,7 +94,7 @@ This solution is ideal for the healthcare industry. It applies to many areas:
 
 ## Considerations
 
-The following considerations align with the [Microsoft Azure Well-Architected Framework][Microsoft Azure Well-Architected Framework] and apply to this solution:
+The following considerations align with the [Microsoft Azure Well-Architected Framework][https://learn.microsoft.com/en-us/azure/well-architected/] and apply to this solution:
 
 ### Availability
 
@@ -162,7 +165,7 @@ With most Azure services, you can reduce costs by only paying for what you use:
 
 ## Contributors
 
-*This article is maintained by Microsoft. It was originally written by the following contributors.* 
+*This article was archived from the Azure Architecture Center. It was originally written by the following contributors.*
 
 Principal authors:
 
